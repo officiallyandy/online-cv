@@ -43,7 +43,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'I have a wide range of industry experience after working for private corporations, a local startup & doing public sector consulting. I am self-motivated, team-oriented and is focused on using technology for impactful purposes wherever possible'
+    text: 'I have a wide range of industry experience after working for private corporations, a local startup & doing public sector consulting. I am self-motivated, team-oriented and is focused on using technology for impactful purposes wherever possible.'
 
 
 studies: 
@@ -67,32 +67,23 @@ studies:
 
 
 projects:
-    title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    title: Work Experience
+    #intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+    #  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     projects:
       - project:
-        title: Velocity
+        title: "Private Sector - Full stack & Frontend Development & Frontend Development : ~3 years"
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "• Implementing everything front to back: generating the database design, stored procedures, backend and front end code."
       - project:
-        title: DevStudio
+        title: "Public Sector Consulting - Full stack & Frontend Development : 9 years"
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
       - project:
-        title: Tempo
+        title: "Startup Experience - Frontend & Mobile Development : ~ 1.5 years"
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 
 publications:
     title: Publications
