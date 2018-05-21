@@ -6,13 +6,13 @@ sidebar:
     
     # Profile information
     name: Andy Nunez
-    tagline: Full Stack Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Senior Frontend Developer
+    pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@officiallyandy.com
+    email: andy@officiallyandy.com
     phone: 571 451 9575
-    website: blog.officiallyandy.com #do not add http://
+    #website: blog.officiallyandy.com #do not add http://
     linkedin: nuneza
     github: officiallyandy
     twitter: '@officiallyandy'
@@ -43,7 +43,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'I have a wide range of industry experience after working for private corporations, a local startup & doing public sector consulting. I am self-motivated, team-oriented and is focused on using technology for impactful purposes wherever possible'
 
 
 studies: 
