@@ -34,7 +34,7 @@ sidebar:
           link:
         - interest:
           item: Cooking
-          link: https://tasty.co 
+          link: https://tasty.co   
 
         
 
@@ -75,29 +75,24 @@ projects:
       - project:
         title: "<strong> Private Sector - Full stack & Frontend Development :  ~3 years </strong>"
         link: "#hook"
-        tagline: "</br> • Leading the refactoring effort within a team of 5 to meet AngularJS style guide in order to have a consistent codebase and fu-
-ture-proof our application before sprint deployments. </br> 
+        tagline: "</br> • Leading the refactoring effort within a team of 5 to meet AngularJS style guide in order to have a consistent codebase and future-proof our application before sprint deployments. </br> 
 • Mentoring junior team members in AngularJS & Bootstrap. </br> 
 • Code reviewing completed work from team members. </br> 
 • Wrote Mocha unit tests and ensuring high code coverage for each “layer”, model, service and controllers. </br> 
-• Met with stakeholders, wrote requirements, and generated all necessary documentation for application including functional,
-test specifications, and user guides, etc. </br> 
+• Met with stakeholders, wrote requirements, and generated all necessary documentation for application including functional, test specifications, and user guides, etc. </br> 
 • Completing stories according to requirements specified within Jira. </br> 
 • Implementing screens in HTML5 to match approved web designs. </br> 
 • Implementing everything front to back: generating the database design, stored procedures, backend and front end code. </br> "
       - project:
         title: "<strong> Public Sector Consulting - Full stack & Frontend Development : 9 years </strong>"
         link: "#"
-        tagline: "<br /> • Mentoring junior team members in AngularJS & Bootstrap.
-• Solely responsible for implementing a responsive HTML5 branded SharePoint 2013 theme which was deployed throughout
-entire government agency. </br> 
+        tagline: "<br /> • Mentoring junior team members in AngularJS & Bootstrap. <br />
+• Solely responsible for implementing a responsive HTML5 branded SharePoint 2013 theme which was deployed throughout entire government agency. </br> 
 • Integrated SharePoint security & navigation with an in-house built document management system. </br> 
-• Team technical lead on the large-scale five-months subproject that reorganized the entire enterprise SharePoint installation:
-five-months subproject that reorganized the entire enterprise SharePoint installation:
-• Data was rolled up between all 63 sites according to the new hierarchy, thus allowing for better, more finely tuned man-
-agement oversight. </br> 
-• While this sort of reorganization is normally carried out thru the use of third-party tools & software, this project was ac-
-complished solely through the use of custom JavaScript, HTML5 & out-of-the-box tools on IE6. </br> 
+• Team technical lead on the large-scale five-months subproject that reorganized the entire enterprise SharePoint installation: <br />
+    five-months subproject that reorganized the entire enterprise SharePoint installation: <br />
+• Data was rolled up between all 63 sites according to the new hierarchy, thus allowing for better, more finely tuned management oversight. </br> 
+• While this sort of reorganization is normally carried out thru the use of third-party tools & software, this project was accomplished solely through the use of custom JavaScript, HTML5 & out-of-the-box tools on IE6. </br> 
 • Created & implemented innovative and modern HTML5 based designs for multiple small applications. </br> 
 • Live prototyping with client in working sessions due to extremely tight deadlines and lack of clarity in requirements. </br>  
 • Technical Lead on SharePoint 2010 to SharePoint 2013 migration within a team of 4. </br> 
@@ -107,18 +102,14 @@ complished solely through the use of custom JavaScript, HTML5 & out-of-the-box t
       - project:
         title: "</br> <strong> Startup Experience - Frontend & Mobile Development : ~ 1.5 years </strong> "
         link: "#"
-        tagline: "• Troubleshooting & tech support for public large scale SAAS application supporting 80,000+ users. </br> 
+        tagline: "<br /> • Troubleshooting & tech support for public large scale SAAS application supporting 80,000+ users. </br> 
 • Implementing screens in HTML5 to match approved web designs in either AngularJS, ReactJS. </br> 
 • Provided suggestions to Product team to improve design usability and user experience. </br> 
 • Completing stories according to requirements specified within Jira. </br> 
-• Working on a small team of 2 developers to create an open source smart front-end framework using AngularJS, HTML5 & Cor-
-dova / PhoneGap for building cross-platform mobile applications. </br>  PhoneGap for building cross-platform mobile ap-
-plications. </br> 
+• Working on a small team of 2 developers to create an open source smart front-end framework using AngularJS, HTML5 & Cordova / PhoneGap for building cross-platform mobile applications. PhoneGap for building cross-platform mobile applications. </br> 
 • Created a simplified client based API layer for data synchronization between the client (mobile app) & server on the cloud. </br> 
-• Implemented Geofence capabilities in VanillaJS for tracking entering & leaving of regions on a map based on the user’s cur-
-rent GPS positions' current GPS positions. </br> 
-• “Eating our own dog food”. Meaning we built production ready applications using our framework in order to validate the prod-
- uct. </br> 
+• Implemented Geofence capabilities in VanillaJS for tracking entering & leaving of regions on a map based on the user’s current GPS positions' current GPS positions. </br> 
+• “Eating our own dog food”. Meaning we built production ready applications using our framework in order to validate the product. </br> 
 • Participated in daily “stand-ups”. </br> 
 • Code reviewing completed work from other team members. </br> "
 
@@ -143,25 +134,28 @@ rent GPS positions' current GPS positions. </br>
 
 skills:
     title: Skills &amp; Proficiency
-    skills:
-        - skill:
-          name: Python & Django
-          level: 25%
+    skills:        
         - skill:
           name: Javascript & jQuery
           level: 85%
         - skill:
+          name: HTML5 & CSS
+          level: 90%          
+        - skill:
           name: Angular
           level: 75%
         - skill:
-          name: HTML5 & CSS
-          level: 95%
+          name: Python & Django
+          level: 25%          
         - skill:
           name: Ruby on Rails
-          level: 40%
+          level: 35%
         - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Sketch
+          level: 25%
+        - skill:
+          name: React
+          level: 55%          
 
 
 footer: 
