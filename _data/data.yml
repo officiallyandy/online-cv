@@ -73,6 +73,19 @@ projects:
     
     projects:
       - project:
+        title: "</br> <strong> Startup Experience - Frontend & Mobile Development : ~ 1.5 years </strong> "
+        link: "#"
+        tagline: "<br /> • Troubleshooting & tech support for public large scale SAAS application supporting 80,000+ users. </br> 
+• Implementing screens in HTML5 to match approved web designs in either AngularJS, ReactJS. </br> 
+• Provided suggestions to Product team to improve design usability and user experience. </br> 
+• Completing stories according to requirements specified within Jira. </br> 
+• Working on a small team of 2 developers to create an open source smart front-end framework using AngularJS, HTML5 & Cordova / PhoneGap for building cross-platform mobile applications. PhoneGap for building cross-platform mobile applications. </br> 
+• Created a simplified client based API layer for data synchronization between the client (mobile app) & server on the cloud. </br> 
+• Implemented Geofence capabilities in VanillaJS for tracking entering & leaving of regions on a map based on the user’s current GPS positions' current GPS positions. </br> 
+• “Eating our own dog food”. Meaning we built production ready applications using our framework in order to validate the product. </br> 
+• Participated in daily “stand-ups”. </br> 
+• Code reviewing completed work from other team members. </br> "    
+      - project:
         title: "<strong> Private Sector - Full stack & Frontend Development :  ~3 years </strong>"
         link: "#hook"
         tagline: "</br> • Leading the refactoring effort within a team of 5 to meet AngularJS style guide in order to have a consistent codebase and future-proof our application before sprint deployments. </br> 
@@ -99,19 +112,7 @@ projects:
 • Reimplementing modern responsive HTML5 web application from scratch based on a legacy system’s design. </br> 
 • Participated in daily “stand-ups”. </br> 
 • Ensuring out ASP.Net web applications met 508 Compliancy. </br> "
-      - project:
-        title: "</br> <strong> Startup Experience - Frontend & Mobile Development : ~ 1.5 years </strong> "
-        link: "#"
-        tagline: "<br /> • Troubleshooting & tech support for public large scale SAAS application supporting 80,000+ users. </br> 
-• Implementing screens in HTML5 to match approved web designs in either AngularJS, ReactJS. </br> 
-• Provided suggestions to Product team to improve design usability and user experience. </br> 
-• Completing stories according to requirements specified within Jira. </br> 
-• Working on a small team of 2 developers to create an open source smart front-end framework using AngularJS, HTML5 & Cordova / PhoneGap for building cross-platform mobile applications. PhoneGap for building cross-platform mobile applications. </br> 
-• Created a simplified client based API layer for data synchronization between the client (mobile app) & server on the cloud. </br> 
-• Implemented Geofence capabilities in VanillaJS for tracking entering & leaving of regions on a map based on the user’s current GPS positions' current GPS positions. </br> 
-• “Eating our own dog food”. Meaning we built production ready applications using our framework in order to validate the product. </br> 
-• Participated in daily “stand-ups”. </br> 
-• Code reviewing completed work from other team members. </br> "
+
 
 # publications:
 #     title: Publications
@@ -143,7 +144,10 @@ skills:
           level: 90%          
         - skill:
           name: Angular
-          level: 75%
+          level: 80%
+        - skill:
+          name: React
+          level: 55%             
         - skill:
           name: Python & Django
           level: 25%          
@@ -151,11 +155,8 @@ skills:
           name: Ruby on Rails
           level: 35%
         - skill:
-          name: Sketch
-          level: 25%
-        - skill:
-          name: React
-          level: 55%          
+          name: Elixir
+          level: 20%       
 
 
 footer: 
