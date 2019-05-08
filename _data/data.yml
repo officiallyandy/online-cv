@@ -86,7 +86,7 @@ projects:
 • Participated in daily “stand-ups”. </br> 
 • Code reviewing completed work from other team members. </br> "    
       - project:
-        title: "<strong> Private Sector - Full stack & Frontend Development :  ~3 years </strong>"
+        title: "<strong> Private Sector - Full stack & Frontend Development :  ~4 years </strong>"
         link: "#hook"
         tagline: "</br> • Leading the refactoring effort within a team of 5 to meet AngularJS style guide in order to have a consistent codebase and future-proof our application before sprint deployments. </br> 
 • Mentoring junior team members in AngularJS & Bootstrap. </br> 
@@ -147,7 +147,7 @@ skills:
           level: 80%
         - skill:
           name: React
-          level: 55%             
+          level: 40%             
         - skill:
           name: Python & Django
           level: 25%          
