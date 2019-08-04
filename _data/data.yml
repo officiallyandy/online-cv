@@ -145,16 +145,16 @@ skills:
           level: 90%          
         - skill:
           name: Angular
-          level: 80%
+          level: 60%
         - skill:
           name: React
-          level: 40%             
+          level: 30%             
         - skill:
           name: Python & Django
-          level: 25%          
+          level: 20%          
         - skill:
           name: Ruby on Rails
-          level: 35%
+          level: 15%
         - skill:
           name: Elixir
           level: 20%       
